@@ -1,0 +1,8 @@
+[package]
+name = "hello-world-cargo"
+version = "0.1.0"
+authors = ["faisal"]
+edition = "2018"
+
+[dependencies]
+
